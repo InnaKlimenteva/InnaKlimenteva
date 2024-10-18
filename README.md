@@ -21,8 +21,8 @@ https://inna-klimenteva-portfolio.glitch.me
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Static Badge](https://img.shields.io/badge/GSAP-green)
-![Static Badge](https://img.shields.io/badge/BootStrap-blue)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-%23abff83.svg?style=for-the-badge)
 
 📫  You can reach me by e-mail innaklimenteva@yandex.com
 
