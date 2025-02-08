@@ -11,7 +11,7 @@
 
 👩🏼‍💻  I’m working as a freelancer, building sites and landing pages
 
-👯  I’m looking for a job in a team and would be happy to collaborate
+👯  I would be happy to collaborate
 
 🧰  Here is my Portfolio 
 ```bash 
